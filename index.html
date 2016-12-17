@@ -128,7 +128,7 @@
             {
                 var img_path = record.name + "/" + record.name + ((record.gif) ? ".gif" : ".png");
                 var h = "<div class='row game-container'> \
-                            <div class='col-md-4'><img width='100%' class='thumbnail' src='" + img_path + "' /></div> \
+                            <div class='col-md-4'><img width='100%' class='thumbnail' src='games/" + img_path + "' /></div> \
                                 <div class='game-desc col-md-8'> \
                                     <div class='row'> \
                                         <h2 class='blue game-title'>"+record.title+"</h2> \
@@ -148,11 +148,21 @@
             }
 
             container.append(RenderRecord({
+                name: 'confined', title: 'Confined', 
+                win: 'https://drive.google.com/file/d/0B_YOg_cYxzjzamRQU0FjZnFUNE0/view?usp=sharing',
+                mac: 'https://drive.google.com/file/d/0B_YOg_cYxzjzM0JFVHY3bFpkNjg/view?usp=sharing',
+                web: 'games/confined/',
+
+                description: "A chillout game where you float through space, planet-hopping, looking for clues to help bring a lost girl home. All you have to go on is some encrypted communications intercepted from a man to his wife. Use your limited rocket fuel, smarts and Sherlockian deduction to find out where she is. Made solo but not submited for Ludum Dare Game Jam 37."
+                
+            }));
+
+            container.append(RenderRecord({
                 name: 'gbjam2016', title: 'Global Defense Corps', 
                 gif: true,
                 win: 'https://drive.google.com/open?id=0B9IhHuGpK1UJNTUzZXE4WG1kbWs',
                 //mac: '',
-                web: 'gbjam2016/',
+                web: 'games/gbjam2016/',
 
                 description: 'Entry for the 2016 Game Boy Jam. I did some design and the code for "Global Defense Corps"; an action packed, monster-exploding, civilian-saving bonanza! Head on over to <a class="yellow" href="https://sean-noonan.itch.io/global-defense-corps">itch.io</a> to grab it. Credits also to <a class="yellow" href="https://twitter.com/SeanNoonan">@SeanNoonan</a> and <a class="yellow" href="https://twitter.com/nostoppingepoch">@nostoppingepoch</a><br><br>This is a 10 day annual jam that Sean and I managed to find 2-3 days each to work on, it\'s funny how a game can come together at 3am on a Monday morning!'
                 
@@ -216,14 +226,14 @@
             }));
 
             
-            container.append(RenderRecord({
-                name: 'trusty_servant', title: 'The Trusty Servant', 
-                win: 'https://drive.google.com/file/d/0B9IhHuGpK1UJY2JGQ2tXcVNSRnM/view?usp=sharing',
-                mac: 'https://drive.google.com/file/d/0B9IhHuGpK1UJN3lZdHhEV1NXQjA/view?usp=sharing',
+            // container.append(RenderRecord({
+            //     name: 'trusty_servant', title: 'The Trusty Servant', 
+            //     win: 'https://drive.google.com/file/d/0B9IhHuGpK1UJY2JGQ2tXcVNSRnM/view?usp=sharing',
+            //     mac: 'https://drive.google.com/file/d/0B9IhHuGpK1UJN3lZdHhEV1NXQjA/view?usp=sharing',
 
-                description: 'As recently deceased butler of Professor Timotheth Longfellow in a final act of devotion, you must save your master and thwart his brother Sebastian\'s plans. You have twelve hours; use them wisely. Oh, and Arkwright! Time might prove less of a problem than you think... Made with <a class="yellow" href="http://twitter.com/mykeebee">Myke</a>, <a class="yellow" href="https://steamcommunity.com/id/harriso">Dave</a> and <a class="yellow" href="http://darkjimbo.deviantart.com/">Jim</a>'
+            //     description: 'As recently deceased butler of Professor Timotheth Longfellow in a final act of devotion, you must save your master and thwart his brother Sebastian\'s plans. You have twelve hours; use them wisely. Oh, and Arkwright! Time might prove less of a problem than you think... Made with <a class="yellow" href="http://twitter.com/mykeebee">Myke</a>, <a class="yellow" href="https://steamcommunity.com/id/harriso">Dave</a> and <a class="yellow" href="http://darkjimbo.deviantart.com/">Jim</a>'
                 
-            }));
+            // }));
 
             // container.append(RenderRecord({
             //     name: 'colour_balance', title: 'Colour Balance', 
