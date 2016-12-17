@@ -1,0 +1,264 @@
+<html>
+<head>
+    <title>Games by Pete Smith</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <style type="text/css">
+        body 
+        {
+            font-family: Verdana, Geneva, sans-serif; 
+            background-color: #333;
+            color: #fff;
+        }
+
+        .btn 
+        {
+            margin-right: 5px;
+        }
+
+        .blue-bg 
+        {
+            background-color: #75A3D1;   
+        }
+
+        .blue
+        {
+            color: #75A3D1;
+        }
+
+        .yellow-bg 
+        {
+            background-color: #FFD452;   
+        }
+
+        .yellow
+        {
+            color: #FFD452;
+        }
+
+        .pink-bg 
+        {
+            background-color: #E05151;   
+        }
+
+        .pink
+        {
+            color: #E05151;   
+        }
+
+        a 
+        {
+            color:inherit;
+        }
+
+        a:hover 
+        {
+            color:inherit;
+            font-style: italic;
+            text-decoration: none;
+        }
+
+        h2 {font-family: courier new;}
+
+        /* Portrait and Landscape */
+        @media only screen {
+
+            .game-container 
+            {
+                margin-bottom: 20px;
+            }            
+
+        }
+
+        .game-desc
+        {
+            padding-left: 25px;
+        }
+
+        .game-title
+        {
+            margin-top: 5px;
+        }
+
+
+    </style>
+
+</head>
+
+<body>
+
+    <div id="main" class="container">
+        <div class="row">
+            <!-- <h3>Games by Pete Smith <span class="pull-right"><a href="twitter.com/pjs_dev"><img src="https://c866088.ssl.cf3.rackcdn.com/assets/twiiter30x30.png"></a></span></h3> -->
+            <h2 id="main-header">Games <span class="blue">by</span> Pete Smith <span class="pull-right"><a class="yellow" href="http://twitter.com/pjs_dev">@pjs_dev</a></span></h2>
+            <hr>
+        </div>
+    </div>
+
+    <div class="container" style="padding-bottom: 20px;"><hr/>
+        <ul class="list-inline">
+            <li>Programmer</li>
+            <li> - </li>
+            <li>Game Designer</li>
+            <li> - </li>
+            <li>Lecturer</li>
+        </ul>
+    </div>
+
+    <script type="text/javascript">
+        $(function() {
+
+            var container = $('#main');
+
+            function GameButton(id, label, link)
+            {
+                var b = "<a href='"+link+"' target='_blank' id='"+id+"' class='btn pink-bg'>"+label+"</a>";
+                return b;
+            }
+
+            function RenderRecord(record)
+            {
+                var img_path = record.name + "/" + record.name + ((record.gif) ? ".gif" : ".png");
+                var h = "<div class='row game-container'> \
+                            <div class='col-md-4'><img width='100%' class='thumbnail' src='" + img_path + "' /></div> \
+                                <div class='game-desc col-md-8'> \
+                                    <div class='row'> \
+                                        <h2 class='blue game-title'>"+record.title+"</h2> \
+                                        <p>"+record.description+"</p><hr/>";
+
+                h += ((record.vid !== undefined) ? GameButton("vid-img", "Video", record.vid) : "");
+                h += ((record.web !== undefined) ? GameButton("webgl-img", "WebGL", record.web) : "");
+                h += ((record.mac !== undefined) ? GameButton("mac-img", "Mac", record.mac) : "");
+                h += ((record.ios !== undefined) ? GameButton("ios-img", "iOS", record.ios) : "");
+                h += ((record.android !== undefined) ? GameButton("android-img", "Android", record.android) : "");
+                h += ((record.win !== undefined) ? GameButton("win-img", "Windows", record.win) : "");
+                h += ((record.linux !== undefined) ? GameButton("linux-img", "Linux", record.linux) : "");
+
+                h += "</div></div></div>";
+
+                return h;
+            }
+
+            container.append(RenderRecord({
+                name: 'gbjam2016', title: 'Global Defense Corps', 
+                gif: true,
+                win: 'https://drive.google.com/open?id=0B9IhHuGpK1UJNTUzZXE4WG1kbWs',
+                //mac: '',
+                web: 'gbjam2016/',
+
+                description: 'Entry for the 2016 Game Boy Jam. I did some design and the code for "Global Defense Corps"; an action packed, monster-exploding, civilian-saving bonanza! Head on over to <a class="yellow" href="https://sean-noonan.itch.io/global-defense-corps">itch.io</a> to grab it. Credits also to <a class="yellow" href="https://twitter.com/SeanNoonan">@SeanNoonan</a> and <a class="yellow" href="https://twitter.com/nostoppingepoch">@nostoppingepoch</a><br><br>This is a 10 day annual jam that Sean and I managed to find 2-3 days each to work on, it\'s funny how a game can come together at 3am on a Monday morning!'
+                
+            }));
+
+            container.append(RenderRecord({
+                name: 'text_team', title: 'Why Did We Bring Typewriters?', 
+                win: 'https://drive.google.com/file/d/0B9IhHuGpK1UJcWZEUFdLTDJORTQ/view?usp=sharing',
+                mac: 'https://drive.google.com/folderview?id=0B9IhHuGpK1UJbGNvbGJDSksxeDQ&usp=sharing',
+
+                description: 'Text adventure meets space team; 4 player, ascii madness. A 4 player networked co-operative game all about communication. You must type clues to your teammates and frantically \'/verb object\' to escape the monster! Watch out for the \'qwertyuiop\' reaper. Made with <a class="yellow" href="http://twitter.com/mykeebee">Myke</a> and <a class="yellow" href="https://steamcommunity.com/id/harriso">Dave</a>'
+                
+            }));
+
+            container.append(RenderRecord({
+                name: 'tappitt', title: 'Tappitt', 
+                ios: 'http://itunes.apple.com/app/id1084147795',
+                android: 'http://play.google.com/store/apps/details?id=com.ludogear.tappitt',
+
+                description: '<a class="yellow" href="http://ludogear.com">Ludo Gear\'s</a> first title. In Tappitt you must frantically tap the colored circles as they grow toward their edges. Do so and you\'ll earn points, miss them and you\'ll lose a life. Tap the colors in order to up your multiplier. Use your \'boosts\' to maximise your tapping power and master the highscore!'
+                
+            }));
+
+            container.append(RenderRecord({
+                name: 'fickle_gods', title: 'Fickle Gods', 
+                win: 'https://drive.google.com/file/d/0B9IhHuGpK1UJejQ5NzllU0kwUE0/view?usp=sharing',
+                mac: 'https://drive.google.com/file/d/0B9IhHuGpK1UJaUpObTBvalVObjg/view?usp=sharing',
+                linux: 'https://drive.google.com/file/d/0B9IhHuGpK1UJVGw2bGZzY0t4WlE/view?usp=sharing',
+
+                description: 'Made for GGJ16; "Fickle Gods", a game about rituals. Try to finish building your temple by appeasing the gods. Do this by scouring your world for valuable offerings, praying reverently and perhaps the odd human sacrifice...  Made with <a class="yellow" href="http://boxofclicks.com">Tim</a>, <a class="yellow" href="http://twitter.com/mykeebee">Myke</a>, <a class="yellow" href="https://steamcommunity.com/id/harriso">Dave</a> and <a class="yellow" href="http://darkjimbo.deviantart.com/">Jim</a>'
+                
+            }));
+
+            container.append(RenderRecord({
+                name: 'trench_knickers', title: 'Trench Knickers', 
+                win: '/trench_knickers/trench_knickers_windows.zip',
+                mac: '/trench_knickers/trench_knickers_mac.zip',
+                web: '/trench_knickers',
+
+                description: 'An experimental realtime-turn-based hybrid board game where you must navigate through the trenches, avoiding patrolling guards, to collect a secret dossier and escape! Made in November 2015 for a self-run game jam. Roll your d6 every few seconds and outwit the gaurds rolling 2d6 every 10. Made with <a class="yellow" href="http://twitter.com/mykeebee">Myke</a>, <a class="yellow" href="https://steamcommunity.com/id/harriso">Dave</a> and <a class="yellow" href="http://darkjimbo.deviantart.com/">Jim</a>'
+                
+            }));
+
+
+            container.append(RenderRecord({
+                name: 'the_grid', title: 'The Grid', 
+                web: 'http://pj-smith.co.uk/the_grid',
+
+                description: 'A local multiplayer board game that required you to place your &quot;software&quot; onto the grid and try move it behind the opponents &quot;firewall&quot; on the other side to turn it into a &quot;server&quot; and connect to it to &quot;hack in&quot;. With an uninterrupted line connecting to one of these servers, you win the game.'
+                
+            }));
+
+            container.append(RenderRecord({
+                name: 'pwrong', title: 'Pwrong', 
+                mac: 'http://pj-smith.co.uk/pwrong/pwrong_mac.zip',
+                win: 'http://pj-smith.co.uk/pwrong/pwrong_win.zip',
+                linux: 'http://pj-smith.co.uk/pwrong/pwrong_linux.zip',
+
+                description: 'At the Montreal (global) game jam, we were the last group of around 25 to come up with an idea and only set to work at midnight on Friday! The theme of the jam was &quot;What do we do now?&quot; and we felt relief when one team member suggested &quot;a game of Pong but then the ball disappears...&quot;'
+                
+            }));
+
+            
+            container.append(RenderRecord({
+                name: 'trusty_servant', title: 'The Trusty Servant', 
+                win: 'https://drive.google.com/file/d/0B9IhHuGpK1UJY2JGQ2tXcVNSRnM/view?usp=sharing',
+                mac: 'https://drive.google.com/file/d/0B9IhHuGpK1UJN3lZdHhEV1NXQjA/view?usp=sharing',
+
+                description: 'As recently deceased butler of Professor Timotheth Longfellow in a final act of devotion, you must save your master and thwart his brother Sebastian\'s plans. You have twelve hours; use them wisely. Oh, and Arkwright! Time might prove less of a problem than you think... Made with <a class="yellow" href="http://twitter.com/mykeebee">Myke</a>, <a class="yellow" href="https://steamcommunity.com/id/harriso">Dave</a> and <a class="yellow" href="http://darkjimbo.deviantart.com/">Jim</a>'
+                
+            }));
+
+            // container.append(RenderRecord({
+            //     name: 'colour_balance', title: 'Colour Balance', 
+            //     web: 'http://pj-smith.co.uk/colour_balance',
+
+            //     description: 'A simple tension game where you must speedily click the expiring circles before you run out of lives. The catch is your lives are split into 3 colours that are linked to the circles. For advanced play you can also influence the spawning chance of the circle colours by moving the sliders at the bottom.'
+                
+            // }));
+
+            // container.append(RenderRecord({
+            //     name: 'circle_racers', title: 'Circle Racers', 
+            //     web: 'http://pj-smith.co.uk/circle_racers',
+
+            //     description: 'Take this $50 and try to double your money on a race between 4 differently coloured circles. They all race better under different conditions. Originally developed alongside a lightweight web server to allow many people to bet together through a simple web page.'
+                
+            // }));
+
+
+            // container.append(RenderRecord({
+            //     name: 'sneakers', title: 'Sneakers', 
+            //     web: 'http://pj-smith.co.uk/sneakers',
+
+            //     description: 'A prototype for a local two player co-operative stealth game. @aub_dev designed the level and the game makes use of a core mechanic of letting your teammate through locked doors as they progress and help you along too.'
+                
+            // }));
+
+            // container.append(RenderRecord({
+            //     name: 'space_miner', title: 'Space Miner', 
+            //     web: 'http://pj-smith.co.uk/space_miner',
+
+            //     description: 'My first effort in Unity! A space based game where you need to collect resources whilst avoiding asteroids and space pirates! A simple resource balancing game and a solid first effort. This was the beginning of my dedication to quick prototyping.'
+                
+            // }));
+        });
+    </script>
+
+</body>
+</html>
