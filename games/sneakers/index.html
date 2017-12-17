@@ -7,15 +7,24 @@
     <link rel="stylesheet" href="TemplateData/style.css">
     <link rel="shortcut icon" href="TemplateData/favicon.ico" />
     <script src="TemplateData/UnityProgress.js"></script>
+    <link type="text/css" href="../../app.css" rel="stylesheet">
+
+    <script src="../../app.js"></script>
+    <script src="../../data.js"></script>
+
+    <script>
+      window.onload = function()
+      {
+        var div = document.getElementById('playable-game-info').innerHTML = RenderGamePageInfo(GameDataByName('sneakers'))
+      }
+    </script>
   </head>
   <body class="template">
-    <p class="header"><span>Unity WebGL Player | </span>stealth_jam</p>
+    <div class='auto-center' id="playable-game-info" style="width: 1080px"></div>
     <p style="width: 300px; margin: 0 auto;"><br/>Movement: WASD / Arrows<br/>Action: F / Forward-Slash</p>
     <div class="template-wrap clear">
     <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
-      <div class="logo"></div>
       <div class="fullscreen"><img src="TemplateData/fullscreen.png" width="38" height="38" alt="Fullscreen" title="Fullscreen" onclick="SetFullscreen(1);" /></div>
-      <div class="title">stealth_jam</div>
     </div>
     <p class="footer">&laquo; created with <a href="http://unity3d.com/" title="Go to unity3d.com">Unity</a> &raquo;</p>
     <script type='text/javascript'>

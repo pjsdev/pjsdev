@@ -53,3 +53,8 @@ function RenderArchiveRecord(record)
   return h;
 }
 
+function RenderGamePageInfo(record)
+{
+  return "<h2>"+record.title+"</h2><h4>"+record.subtitle+" - "+record.date+"</h4><p>"+record.description+"</p>"
+}
+

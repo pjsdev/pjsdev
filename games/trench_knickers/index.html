@@ -7,15 +7,24 @@
     <link rel="stylesheet" href="TemplateData/style.css">
     <link rel="shortcut icon" href="TemplateData/favicon.ico" />
     <script src="TemplateData/UnityProgress.js"></script>
+
+    <script src="../../app.js"></script>
+    <script src="../../data.js"></script>
+
+    <script>
+      window.onload = function()
+      {
+        var div = document.getElementById('playable-game-info').innerHTML = RenderGamePageInfo(GameDataByName('trench_knickers'))
+      }
+    </script>
+<link type="text/css" href="../../app.css" rel="stylesheet">
   </head>
   <body class="template">
-    <p class="header"><span>Unity WebGL Player | </span>Trench Escape</p>
+    <div class='auto-center' id="playable-game-info" style="width: 1280px"></div>
     <div class="template-wrap clear">
-      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="1080px" width="1920px"></canvas>
+      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="720px" width="1280px"></canvas>
       <br>
-      <div class="logo"></div>
       <div class="fullscreen"><img src="TemplateData/fullscreen.png" width="38" height="38" alt="Fullscreen" title="Fullscreen" onclick="SetFullscreen(1);" /></div>
-      <div class="title">Trench Escape</div>
     </div>
     <p class="footer">&laquo; created with <a href="http://unity3d.com/" title="Go to unity3d.com">Unity</a> &raquo;</p>
     <script type='text/javascript'>
@@ -27,6 +36,7 @@
     codeUrl: "Release/trench_knickers.js",
     memUrl: "Release/trench_knickers.mem",
   };
+
 </script>
 <script src="Release/UnityLoader.js"></script>
 

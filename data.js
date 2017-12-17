@@ -100,6 +100,7 @@ var archiveGames = [
   {
     name: 'colour_balance', 
     title: 'Colour Balance', 
+    subtitle: 'Made as part of a tutorial teaching a Unity course',
     date: 'Oct 2015',
     web: 'games/colour_balance',
     description: 'A simple tension game where you must speedily click the expiring circles before you run out of lives. The catch is your lives are split into 3 colours that are linked to the circles. For advanced play you can also influence the spawning chance of the circle colours by moving the sliders at the bottom.'
@@ -108,6 +109,7 @@ var archiveGames = [
   {
     name: 'trusty_servant', 
     title: 'The Trusty Servant', 
+    subtitle: 'Made for fun with good friends', 
     date: 'Oct 2015',
     win: 'https://drive.google.com/file/d/0B9IhHuGpK1UJY2JGQ2tXcVNSRnM/view?usp=sharing',
     mac: 'https://drive.google.com/file/d/0B9IhHuGpK1UJN3lZdHhEV1NXQjA/view?usp=sharing',
@@ -117,6 +119,7 @@ var archiveGames = [
   {
     name: 'sneakers', 
     title: 'Sneakers', 
+    subtitle: 'Made for fun', 
     date: 'May 2015',
     web: 'games/sneakers',
     description: 'A prototype for a local two player co-operative stealth game. @aub_dev designed the level and the game makes use of a core mechanic of letting your teammate through locked doors as they progress and help you along too.'
@@ -134,8 +137,29 @@ var archiveGames = [
   {
     name: 'space_miner', 
     title: 'Space Miner', 
+    subtitle: 'Made for fun', 
     date: 'Dec 2012',
     web: 'games/space_miner',
     description: 'First experiments with Unity. A space based game where you need to collect resources whilst avoiding asteroids and space pirates! A simple resource balancing game and a solid first effort. This was the beginning of my dedication to quick prototyping.'
   }
 ]
+
+function GameDataByName(name) {
+  var i = 0;
+  for(; i < gameData.length; ++i){
+    var record = gameData[i];
+    if(record.name === name) {
+      return record;
+    }
+  }
+
+  i = 0;
+
+  for(; i < archiveGames.length; ++i){
+    var record = archiveGames[i];
+    if(record.name === name) {
+      return record;
+    }
+  }
+}
+

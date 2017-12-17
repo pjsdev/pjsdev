@@ -6,10 +6,30 @@
     <title>Unity WebGL Player | Classes-Properties</title>
     <style>
     /* a style sheet needs to be present for cursor hiding and custom cursors to work. */
+    div.centered {
+      width: 1080px;
+      margin: 10% auto;
+    }
     </style>
+    <link type="text/css" href="../../app.css" rel="stylesheet">
+    <script src="../../app.js"></script>
+    <script src="../../data.js"></script>
+
+    <script>
+      window.onload = function()
+      {
+        var div = document.getElementById('playable-game-info').innerHTML = RenderGamePageInfo(GameDataByName('colour_balance'))
+      }
+    </script>
+
   </head>
   <body>
-    <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="720px" width="1080px"></canvas>
+    <div class='auto-center' id="playable-game-info" style="width: 1080px"></div>
+
+    <div class='centered'>
+      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="720px" width="1080px"></canvas>
+    </div>
+
     <script type='text/javascript'>
   // connect to canvas
   var Module = {

@@ -8,17 +8,27 @@
     <link rel="stylesheet" href="TemplateData/style.css">
     <script src="TemplateData/UnityProgress.js"></script>  
     <script src="Build/UnityLoader.js"></script>
+
+    <script src="../../app.js"></script>
+    <script src="../../data.js"></script>
+
     <script>
       var gameInstance = UnityLoader.instantiate("gameContainer", "Build/flip.json", {onProgress: UnityProgress});
+
+      window.onload = function()
+      {
+        var div = document.getElementById('playable-game-info').innerHTML = RenderGamePageInfo(GameDataByName('flip'))
+      }
+
     </script>
+    <link type="text/css" href="../../app.css" rel="stylesheet">
   </head>
   <body>
+    <div class='auto-center' id="playable-game-info" style="width: 1280px"></div>
     <div class="webgl-content">
       <div id="gameContainer" style="width: 1280px; height: 720px"></div>
       <div class="footer">
-        <div class="webgl-logo"></div>
         <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
-        <div class="title">Flip</div>
       </div>
     </div>
   </body>
