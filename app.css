@@ -93,3 +93,14 @@ hr
 {
   margin: 15px 0;
 }
+
+.archive-header
+{
+  text-align: center;
+}
+
+.centered-unplayable-img
+{
+    margin: 0 auto;
+    width: 600px;
+}

@@ -98,15 +98,6 @@ var archiveGames = [
   },
 
   {
-    name: 'circle_racers', 
-    title: 'Circle Racers', 
-    date: 'Feb 2016',
-    web: 'games/circle_racers',
-    description: 'Take this $50 and try to double your money on a race between 4 differently coloured circles. They all race better under different conditions. Originally developed alongside a lightweight web server to allow many people to bet together through a simple web page.'
-  
-  },
-
-  {
     name: 'colour_balance', 
     title: 'Colour Balance', 
     date: 'Oct 2015',
