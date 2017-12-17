@@ -140,7 +140,7 @@ var archiveGames = [
     subtitle: 'Made for fun', 
     date: 'Dec 2012',
     web: 'games/space_miner',
-    description: 'First experiments with Unity. A space based game where you need to collect resources whilst avoiding asteroids and space pirates! A simple resource balancing game and a solid first effort. This was the beginning of my dedication to quick prototyping.'
+    description: 'This game is broken in a lot of ways; both tech and design. It\'s a space game where you need to collect resources whilst avoiding asteroids and space pirates. It was intended as a simple resource balancing game. It was a solid first effort in Unity3D and the beginning of my dedication to quick prototyping.'
   }
 ]
 
