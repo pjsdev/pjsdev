@@ -41,8 +41,8 @@ function RenderArchiveRecord(record)
 {
   var img_path = record.name + "/" + record.name + ((record.gif) ? ".gif" : ".png");
   var path = record.web || record.win || record.mac || record.linux;
-  var anchorOpen = record.unplayableMessage ? "" : "<a href='"+path+"'>"
-  var anchorClose = record.unplayableMessage ? "" : "</a>"
+  var anchorOpen = record.unplayableMessage ? "<a href='unplayable.html'>" : "<a href='"+path+"'>"
+  var anchorClose = "</a>"
 
   return h = " \
   <div class='col-md-3'> \
