@@ -1,0 +1,95 @@
+body 
+{
+    font-family: Verdana, Geneva, sans-serif; 
+    background-color: #333;
+    color: #fff;
+}
+
+.btn 
+{
+    margin-right: 5px;
+}
+
+.blue-bg 
+{
+    background-color: #75A3D1;   
+}
+
+.blue
+{
+    color: #75A3D1;
+}
+
+.yellow-bg 
+{
+    background-color: #FFD452;   
+}
+
+.yellow
+{
+    color: #FFD452;
+}
+
+.pink-bg 
+{
+    background-color: #E05151;   
+}
+
+.pink
+{
+    color: #E05151;   
+}
+
+a 
+{
+    color:inherit;
+}
+
+a
+{
+  text-decoration: none;
+}
+
+a:hover 
+{
+    color:inherit;
+    font-style: italic;
+    text-decoration: none;
+}
+
+h2 {font-family: courier new;}
+
+/* Portrait and Landscape */
+@media only screen {
+
+    .game-container 
+    {
+        margin-bottom: 20px;
+    }            
+
+}
+
+.game-desc
+{
+    padding-left: 25px;
+}
+
+.game-title
+{
+    margin-top: 5px;
+}
+
+.unplayable-message 
+{
+
+}
+
+div.archive-row
+{
+    margin-bottom: 12px;
+}
+
+hr
+{
+  margin: 15px 0;
+}

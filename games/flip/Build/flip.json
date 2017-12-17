@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "flip.data.unityweb",
+"asmCodeUrl": "flip.asm.code.unityweb",
+"asmMemoryUrl": "flip.asm.memory.unityweb",
+"asmFrameworkUrl": "flip.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
