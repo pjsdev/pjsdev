@@ -110,3 +110,29 @@ hr
 {
     margin: 0 auto;
 }
+
+.thumbnail {
+  position: relative;
+  top: 0;
+  right: 0;
+  z-index: 0;
+  transition: all .1s ease-in-out;
+}
+
+.thumb-div-main:hover .thumbnail {
+  -webkit-transform: scale(1.2) translate(-5%);
+  -ms-transform: scale(1.2) translate(-5%);
+  transform: scale(1.2) translate(-5%);
+  z-index: 10;
+}
+
+.thumb-div:hover .thumbnail {
+  -webkit-transform: scale(2);
+  -ms-transform: scale(2);
+  transform: scale(2);
+  z-index: 10;
+}
+
+a:visited {
+    color: white;
+}

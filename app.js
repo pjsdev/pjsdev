@@ -8,7 +8,7 @@ function RenderRecord(record)
 {
   var img_path = record.name + "/" + record.name + ((record.gif) ? ".gif" : ".png");
   var h = " \
-  <div class='row game-container'> \
+  <div class='thumb-div-main row game-container'> \
     <div class='col-md-4'><div><img width='100%' class='thumbnail' src='games/" + img_path + "' /></div></div> \
       <div class='game-desc col-md-8'> \
         <div class='row'> \
@@ -27,6 +27,7 @@ function RenderRecord(record)
     h += ((record.web !== undefined) ? GameButton("webgl-img", "WebGL", record.web) : "");
     h += ((record.mac !== undefined) ? GameButton("mac-img", "Mac", record.mac) : "");
     h += ((record.ios !== undefined) ? GameButton("ios-img", "iOS", record.ios) : "");
+    h += ((record.assetstore !== undefined) ? GameButton("assetstore-img", "Asset Store", record.assetstore) : "");
     h += ((record.android !== undefined) ? GameButton("android-img", "Android", record.android) : "");
     h += ((record.win !== undefined) ? GameButton("win-img", "Windows", record.win) : "");
     h += ((record.linux !== undefined) ? GameButton("linux-img", "Linux", record.linux) : "");
@@ -45,7 +46,7 @@ function RenderArchiveRecord(record)
   var anchorClose = "</a>"
 
   return h = " \
-  <div class='col-md-3'> \
+  <div class='thumb-div col-md-3'> \
     "+anchorOpen+"<img width='100%' class='thumbnail' src='games/" + img_path + "' />"+anchorClose+" \
     <p class='blue'>"+record.title+"<br/><span class='yellow'>"+record.date+"</span></p> \
   </div>";
