@@ -1,6 +1,6 @@
 {
   "vaultName": "Wolds 2022",
-  "lastExport": 1711294081064,
+  "lastExport": 1711295125790,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark its-i paper dis-tri-quote h-fm check-color check-bg wotc-beyond hide-folder-note folder-note-underline folder-note-underline-path",
   "useCustomHeadContent": false,
@@ -245,20 +245,6 @@
     "Almanac/Things/Flora and Fauna/Vovana Flower.md",
     "Almanac/Things/Vehicles/The Tickly Mister.md",
     "Almanac/Things/Things.md",
-    "lib/media/forbidden-forest.pdf",
-    "lib/media/forbidden-forest-context.pdf",
-    "lib/media/placeholder_portrait.png",
-    "lib/media/aegnor_leafkin.png",
-    "lib/media/boots_floof.png",
-    "lib/media/erland_callistophylla.png",
-    "lib/media/sha_callistophylla.png",
-    "lib/media/tabatha_herdsman.png",
-    "lib/media/yavanna_callistophylla.png",
-    "lib/media/eggs.png",
-    "lib/media/serafina.png",
-    "lib/media/stigandr.png",
-    "lib/media/willy.png",
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -272,27 +258,9 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/media/874d8b8e340f75575caa.svg"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -306,1955 +274,1525 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/media/874d8b8e340f75575caa.svg"
   ],
   "fileInfo": {
     "Almanac/Crudgyns/Warbands/Bigby Bastards.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/crudgyns/warbands/bigby-bastards.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Bigby Bastards.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Da Wing'd Drills.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 133,
-      "exportedPath": "almanac/crudgyns/warbands/da-wing'd-drills.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Da Wing'd Drills.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Granmere Collective.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 41,
-      "exportedPath": "almanac/crudgyns/warbands/granmere-collective.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Granmere Collective.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Ivy Ferry United.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/crudgyns/warbands/ivy-ferry-united.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Ivy Ferry United.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Krinstantinton Jets.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/crudgyns/warbands/krinstantinton-jets.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Krinstantinton Jets.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Lighnspleighs Wighnsplease.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 169,
-      "exportedPath": "almanac/crudgyns/warbands/lighnspleighs-wighnsplease.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Lighnspleighs Wighnsplease.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Roblets Majestic.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 79,
-      "exportedPath": "almanac/crudgyns/warbands/roblets-majestic.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Roblets Majestic.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Roblets Mere Rovers.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 130,
-      "exportedPath": "almanac/crudgyns/warbands/roblets-mere-rovers.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Roblets Mere Rovers.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Roblets Red.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 125,
-      "exportedPath": "almanac/crudgyns/warbands/roblets-red.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Roblets Red.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Ruddinkers.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/crudgyns/warbands/ruddinkers.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Ruddinkers.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Samnik Granthnnoms.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/crudgyns/warbands/samnik-granthnnoms.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Samnik Granthnnoms.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Stingley Whippets.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 88,
-      "exportedPath": "almanac/crudgyns/warbands/stingley-whippets.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Stingley Whippets.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/The Bottomly Chaps.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 88,
-      "exportedPath": "almanac/crudgyns/warbands/the-bottomly-chaps.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/The Bottomly Chaps.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Upper Jute Beauts.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 65,
-      "exportedPath": "almanac/crudgyns/warbands/upper-jute-beauts.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Upper Jute Beauts.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Warbands.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 3718,
-      "exportedPath": "almanac/crudgyns/warbands/warbands.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Warbands.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Warbands/Willesten Pillywickers.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/crudgyns/warbands/willesten-pillywickers.html",
+      "exportedPath": "Almanac/Crudgyns/Warbands/Willesten Pillywickers.html",
       "dependencies": []
     },
     "Almanac/Crudgyns/Crudgyns.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 7905,
-      "exportedPath": "almanac/crudgyns/crudgyns.html",
+      "exportedPath": "Almanac/Crudgyns/Crudgyns.html",
       "dependencies": []
     },
     "Almanac/Events/Battle at Fugglescock.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 245,
-      "exportedPath": "almanac/events/battle-at-fugglescock.html",
+      "exportedPath": "Almanac/Events/Battle at Fugglescock.html",
       "dependencies": []
     },
     "Almanac/Events/Battle at the Coach House.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 265,
-      "exportedPath": "almanac/events/battle-at-the-coach-house.html",
+      "exportedPath": "Almanac/Events/Battle at the Coach House.html",
       "dependencies": []
     },
     "Almanac/Events/Battle of Surtable.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 242,
-      "exportedPath": "almanac/events/battle-of-surtable.html",
+      "exportedPath": "Almanac/Events/Battle of Surtable.html",
       "dependencies": []
     },
     "Almanac/Events/Bobbadi Slain.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 241,
-      "exportedPath": "almanac/events/bobbadi-slain.html",
+      "exportedPath": "Almanac/Events/Bobbadi Slain.html",
       "dependencies": []
     },
     "Almanac/Events/Dean Dean Defeated.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 252,
-      "exportedPath": "almanac/events/dean-dean-defeated.html",
+      "exportedPath": "Almanac/Events/Dean Dean Defeated.html",
       "dependencies": []
     },
     "Almanac/Events/Duke of Bellburgh 1014.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 259,
-      "exportedPath": "almanac/events/duke-of-bellburgh-1014.html",
+      "exportedPath": "Almanac/Events/Duke of Bellburgh 1014.html",
       "dependencies": []
     },
     "Almanac/Events/Eggs freed from Jail.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 255,
-      "exportedPath": "almanac/events/eggs-freed-from-jail.html",
+      "exportedPath": "Almanac/Events/Eggs freed from Jail.html",
       "dependencies": []
     },
     "Almanac/Events/Events.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 2539,
-      "exportedPath": "almanac/events/events.html",
+      "exportedPath": "Almanac/Events/Events.html",
       "dependencies": []
     },
     "Almanac/Events/Geemas Shield Excavated.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 252,
-      "exportedPath": "almanac/events/geemas-shield-excavated.html",
+      "exportedPath": "Almanac/Events/Geemas Shield Excavated.html",
       "dependencies": []
     },
     "Almanac/Events/Greenskin Barrow.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 248,
-      "exportedPath": "almanac/events/greenskin-barrow.html",
+      "exportedPath": "Almanac/Events/Greenskin Barrow.html",
       "dependencies": []
     },
     "Almanac/Events/Guppyberg Massacre.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 251,
-      "exportedPath": "almanac/events/guppyberg-massacre.html",
+      "exportedPath": "Almanac/Events/Guppyberg Massacre.html",
       "dependencies": []
     },
     "Almanac/Events/Hourglass Stolen from the Wood Elves.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 275,
-      "exportedPath": "almanac/events/hourglass-stolen-from-the-wood-elves.html",
+      "exportedPath": "Almanac/Events/Hourglass Stolen from the Wood Elves.html",
       "dependencies": []
     },
     "Almanac/Events/Jaskan War.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 226,
-      "exportedPath": "almanac/events/jaskan-war.html",
+      "exportedPath": "Almanac/Events/Jaskan War.html",
       "dependencies": []
     },
     "Almanac/Events/Jaskan War Ends.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 237,
-      "exportedPath": "almanac/events/jaskan-war-ends.html",
+      "exportedPath": "Almanac/Events/Jaskan War Ends.html",
       "dependencies": []
     },
     "Almanac/Events/Meeting Victor Rugglesniff.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 267,
-      "exportedPath": "almanac/events/meeting-victor-rugglesniff.html",
+      "exportedPath": "Almanac/Events/Meeting Victor Rugglesniff.html",
       "dependencies": []
     },
     "Almanac/Events/Riblets Crudgyns Derby Day 1013.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 278,
-      "exportedPath": "almanac/events/riblets-crudgyns-derby-day-1013.html",
+      "exportedPath": "Almanac/Events/Riblets Crudgyns Derby Day 1013.html",
       "dependencies": []
     },
     "Almanac/Events/Sinking of the Tickly Mister.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 271,
-      "exportedPath": "almanac/events/sinking-of-the-tickly-mister.html",
+      "exportedPath": "Almanac/Events/Sinking of the Tickly Mister.html",
       "dependencies": []
     },
     "Almanac/Events/Tourney in Boreas.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 240,
-      "exportedPath": "almanac/events/tourney-in-boreas.html",
+      "exportedPath": "Almanac/Events/Tourney in Boreas.html",
       "dependencies": []
     },
     "Almanac/Events/Victor Leaves for Mirabel.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 265,
-      "exportedPath": "almanac/events/victor-leaves-for-mirabel.html",
+      "exportedPath": "Almanac/Events/Victor Leaves for Mirabel.html",
       "dependencies": []
     },
     "Almanac/Events/Visions at Greigh Henge.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 261,
-      "exportedPath": "almanac/events/visions-at-greigh-henge.html",
+      "exportedPath": "Almanac/Events/Visions at Greigh Henge.html",
       "dependencies": []
     },
     "Almanac/Gods & Titans/Brackrith.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/gods-&-titans/brackrith.html",
+      "exportedPath": "Almanac/Gods & Titans/Brackrith.html",
       "dependencies": []
     },
     "Almanac/Gods & Titans/Eglan Anu Vaya.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/gods-&-titans/eglan-anu-vaya.html",
+      "exportedPath": "Almanac/Gods & Titans/Eglan Anu Vaya.html",
       "dependencies": []
     },
     "Almanac/Gods & Titans/Epentoch.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 113,
-      "exportedPath": "almanac/gods-&-titans/epentoch.html",
+      "exportedPath": "Almanac/Gods & Titans/Epentoch.html",
       "dependencies": []
     },
     "Almanac/Gods & Titans/Faenor.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 49,
-      "exportedPath": "almanac/gods-&-titans/faenor.html",
+      "exportedPath": "Almanac/Gods & Titans/Faenor.html",
       "dependencies": []
     },
     "Almanac/Gods & Titans/Geema.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 28,
-      "exportedPath": "almanac/gods-&-titans/geema.html",
+      "exportedPath": "Almanac/Gods & Titans/Geema.html",
       "dependencies": []
     },
     "Almanac/Gods & Titans/Gods & Titans.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1495,
-      "exportedPath": "almanac/gods-&-titans/gods-&-titans.html",
+      "exportedPath": "Almanac/Gods & Titans/Gods & Titans.html",
       "dependencies": []
     },
     "Almanac/Gods & Titans/Hekarhamu.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 55,
-      "exportedPath": "almanac/gods-&-titans/hekarhamu.html",
+      "exportedPath": "Almanac/Gods & Titans/Hekarhamu.html",
       "dependencies": []
     },
     "Almanac/Gods & Titans/King Cassius.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/gods-&-titans/king-cassius.html",
+      "exportedPath": "Almanac/Gods & Titans/King Cassius.html",
       "dependencies": []
     },
     "Almanac/Gods & Titans/Queen Sorrel.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 9,
-      "exportedPath": "almanac/gods-&-titans/queen-sorrel.html",
+      "exportedPath": "Almanac/Gods & Titans/Queen Sorrel.html",
       "dependencies": []
     },
     "Almanac/History/History.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 49,
-      "exportedPath": "almanac/history/history.html",
+      "exportedPath": "Almanac/History/History.html",
       "dependencies": []
     },
     "Almanac/Locations/Boreas/Ashwood Deserts.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 65,
-      "exportedPath": "almanac/locations/boreas/ashwood-deserts.html",
+      "exportedPath": "Almanac/Locations/Boreas/Ashwood Deserts.html",
       "dependencies": []
     },
     "Almanac/Locations/Boreas/Boreas.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 99,
-      "exportedPath": "almanac/locations/boreas/boreas.html",
+      "exportedPath": "Almanac/Locations/Boreas/Boreas.html",
       "dependencies": []
     },
     "Almanac/Locations/Mirabel/Mirabel.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 65,
-      "exportedPath": "almanac/locations/mirabel/mirabel.html",
+      "exportedPath": "Almanac/Locations/Mirabel/Mirabel.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Forbidden Forest/Forbidden Forest.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 232,
-      "exportedPath": "almanac/locations/the-wolds/forbidden-forest/forbidden-forest.html",
-      "dependencies": [
-        "lib/media/forbidden-forest.pdf",
-        "lib/media/forbidden-forest-context.pdf"
-      ]
+      "exportedPath": "Almanac/Locations/The Wolds/Forbidden Forest/Forbidden Forest.html",
+      "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Lower)/Bunglesmerle/Arcananeum.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 122,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(lower)/bunglesmerle/arcananeum.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Lower)/Bunglesmerle/Arcananeum.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Lower)/Bunglesmerle/Bunglesmerle.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 43,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(lower)/bunglesmerle/bunglesmerle.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Lower)/Bunglesmerle/Bunglesmerle.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Lower)/Butcombe/Butcombe.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 458,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(lower)/butcombe/butcombe.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Lower)/Butcombe/Butcombe.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Lower)/Butcombe/Butcombe Lyceum.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 68,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(lower)/butcombe/butcombe-lyceum.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Lower)/Butcombe/Butcombe Lyceum.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Lower)/Funtington/Funtington.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 53,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(lower)/funtington/funtington.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Lower)/Funtington/Funtington.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Lower)/Bellburgh.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 71,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(lower)/bellburgh.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Lower)/Bellburgh.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Lower)/Lower Swell.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 34,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(lower)/lower-swell.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Lower)/Lower Swell.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Upper)/Riblets-on-the-Roblets/Riblets-on-the-Roblets.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 45,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(upper)/riblets-on-the-roblets/riblets-on-the-roblets.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Upper)/Riblets-on-the-Roblets/Riblets-on-the-Roblets.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Upper)/Greenskin Barrow.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 51,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(upper)/greenskin-barrow.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Upper)/Greenskin Barrow.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Riblets (Upper)/The Coach House.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 52,
-      "exportedPath": "almanac/locations/the-wolds/riblets-(upper)/the-coach-house.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Riblets (Upper)/The Coach House.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Samnik/Grantham/Grantham.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 86,
-      "exportedPath": "almanac/locations/the-wolds/samnik/grantham/grantham.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Samnik/Grantham/Grantham.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Samnik/Grantham/The Grand Grantham Library of Geema.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 59,
-      "exportedPath": "almanac/locations/the-wolds/samnik/grantham/the-grand-grantham-library-of-geema.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Samnik/Grantham/The Grand Grantham Library of Geema.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Samnik/Bigby Head.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 43,
-      "exportedPath": "almanac/locations/the-wolds/samnik/bigby-head.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Samnik/Bigby Head.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Samnik/Fugglescock.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 45,
-      "exportedPath": "almanac/locations/the-wolds/samnik/fugglescock.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Samnik/Fugglescock.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Samnik/Kristantinton.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 43,
-      "exportedPath": "almanac/locations/the-wolds/samnik/kristantinton.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Samnik/Kristantinton.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Stiggeans (Above)/Novaya Beluschka.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 136,
-      "exportedPath": "almanac/locations/the-wolds/stiggeans-(above)/novaya-beluschka.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Stiggeans (Above)/Novaya Beluschka.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Stiggeans (Below)/Stiggeans (Below).md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 58,
-      "exportedPath": "almanac/locations/the-wolds/stiggeans-(below)/stiggeans-(below).html",
+      "exportedPath": "Almanac/Locations/The Wolds/Stiggeans (Below)/Stiggeans (Below).html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Stiggeans (Below)/The Twistings.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 45,
-      "exportedPath": "almanac/locations/the-wolds/stiggeans-(below)/the-twistings.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Stiggeans (Below)/The Twistings.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Swamp of Sirens/Hai'kassle.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 44,
-      "exportedPath": "almanac/locations/the-wolds/swamp-of-sirens/hai'kassle.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Swamp of Sirens/Hai'kassle.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Bits/Cuppletea/Cats Pyjamas.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 109,
-      "exportedPath": "almanac/locations/the-wolds/the-bits/cuppletea/cats-pyjamas.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Bits/Cuppletea/Cats Pyjamas.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Bits/Cuppletea/Cuppletea.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 63,
-      "exportedPath": "almanac/locations/the-wolds/the-bits/cuppletea/cuppletea.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Bits/Cuppletea/Cuppletea.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Bits/Beckerying.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 50,
-      "exportedPath": "almanac/locations/the-wolds/the-bits/beckerying.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Bits/Beckerying.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Bits/Buggids.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 53,
-      "exportedPath": "almanac/locations/the-wolds/the-bits/buggids.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Bits/Buggids.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Bits/Lighnspleighs.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 46,
-      "exportedPath": "almanac/locations/the-wolds/the-bits/lighnspleighs.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Bits/Lighnspleighs.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Bits/Stingley Bottom.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 50,
-      "exportedPath": "almanac/locations/the-wolds/the-bits/stingley-bottom.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Bits/Stingley Bottom.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Bits/The Bits.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 265,
-      "exportedPath": "almanac/locations/the-wolds/the-bits/the-bits.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Bits/The Bits.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Bits/The Ritual Stone.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 53,
-      "exportedPath": "almanac/locations/the-wolds/the-bits/the-ritual-stone.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Bits/The Ritual Stone.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Bits/Trollfeeld.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 50,
-      "exportedPath": "almanac/locations/the-wolds/the-bits/trollfeeld.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Bits/Trollfeeld.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Westmire/Bitsingbury/Bitsingbury.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 79,
-      "exportedPath": "almanac/locations/the-wolds/westmire/bitsingbury/bitsingbury.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Westmire/Bitsingbury/Bitsingbury.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Westmire/Bitsingbury/New Providence Inn.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 84,
-      "exportedPath": "almanac/locations/the-wolds/westmire/bitsingbury/new-providence-inn.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Westmire/Bitsingbury/New Providence Inn.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Westmire/Bogwater.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 45,
-      "exportedPath": "almanac/locations/the-wolds/westmire/bogwater.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Westmire/Bogwater.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/Westmire/Westmire.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1098,
-      "exportedPath": "almanac/locations/the-wolds/westmire/westmire.html",
+      "exportedPath": "Almanac/Locations/The Wolds/Westmire/Westmire.html",
       "dependencies": []
     },
     "Almanac/Locations/The Wolds/The Wolds.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 288,
-      "exportedPath": "almanac/locations/the-wolds/the-wolds.html",
+      "exportedPath": "Almanac/Locations/The Wolds/The Wolds.html",
       "dependencies": []
     },
     "Almanac/Locations/Locations.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 2919,
-      "exportedPath": "almanac/locations/locations.html",
+      "exportedPath": "Almanac/Locations/Locations.html",
       "dependencies": []
     },
     "Almanac/Non-Player Characters/Aaron the Artificer.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 727,
-      "exportedPath": "almanac/non-player-characters/aaron-the-artificer.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Aaron the Artificer.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Aegnor Leafkin.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 787,
-      "exportedPath": "almanac/non-player-characters/aegnor-leafkin.html",
-      "dependencies": [
-        "lib/media/aegnor_leafkin.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Aegnor Leafkin.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Alfie.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 638,
-      "exportedPath": "almanac/non-player-characters/alfie.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Alfie.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Anastasia Diminitroniva.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 677,
-      "exportedPath": "almanac/non-player-characters/anastasia-diminitroniva.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Anastasia Diminitroniva.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Archibald the Toff.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 706,
-      "exportedPath": "almanac/non-player-characters/archibald-the-toff.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Archibald the Toff.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Australd.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 668,
-      "exportedPath": "almanac/non-player-characters/australd.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Australd.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Baldric & James.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 622,
-      "exportedPath": "almanac/non-player-characters/baldric-&-james.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Baldric & James.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Bobbadi.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 678,
-      "exportedPath": "almanac/non-player-characters/bobbadi.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Bobbadi.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Boots Floof.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 781,
-      "exportedPath": "almanac/non-player-characters/boots-floof.html",
-      "dependencies": [
-        "lib/media/boots_floof.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Boots Floof.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Borash.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 719,
-      "exportedPath": "almanac/non-player-characters/borash.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Borash.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Bordo Dempster.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 719,
-      "exportedPath": "almanac/non-player-characters/bordo-dempster.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Bordo Dempster.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Boss Tomato.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 592,
-      "exportedPath": "almanac/non-player-characters/boss-tomato.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Boss Tomato.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Britney McCabe.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 781,
-      "exportedPath": "almanac/non-player-characters/britney-mccabe.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Britney McCabe.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Brokkwin Mollison.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 538,
-      "exportedPath": "almanac/non-player-characters/brokkwin-mollison.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Brokkwin Mollison.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Brumbek.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 752,
-      "exportedPath": "almanac/non-player-characters/brumbek.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Brumbek.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Cassius Varus.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 689,
-      "exportedPath": "almanac/non-player-characters/cassius-varus.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Cassius Varus.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Cato Varus.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 654,
-      "exportedPath": "almanac/non-player-characters/cato-varus.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Cato Varus.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Crithins (Archmage).md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 944,
-      "exportedPath": "almanac/non-player-characters/crithins-(archmage).html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Crithins (Archmage).html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Cynthia Dobromaslova.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 784,
-      "exportedPath": "almanac/non-player-characters/cynthia-dobromaslova.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Cynthia Dobromaslova.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Daniil Dobromaslov.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 847,
-      "exportedPath": "almanac/non-player-characters/daniil-dobromaslov.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Daniil Dobromaslov.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Dean Dean Backenfor.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 680,
-      "exportedPath": "almanac/non-player-characters/dean-dean-backenfor.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Dean Dean Backenfor.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Duro.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 538,
-      "exportedPath": "almanac/non-player-characters/duro.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Duro.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Eggbert Diminitrov.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 564,
-      "exportedPath": "almanac/non-player-characters/eggbert-diminitrov.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Eggbert Diminitrov.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Erland Callistophylla.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 653,
-      "exportedPath": "almanac/non-player-characters/erland-callistophylla.html",
-      "dependencies": [
-        "lib/media/erland_callistophylla.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Erland Callistophylla.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Excavator Kimmins.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 694,
-      "exportedPath": "almanac/non-player-characters/excavator-kimmins.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Excavator Kimmins.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Faroqa Bumble.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 848,
-      "exportedPath": "almanac/non-player-characters/faroqa-bumble.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Faroqa Bumble.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Filbert.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 775,
-      "exportedPath": "almanac/non-player-characters/filbert.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Filbert.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Flimsa Backenfor.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 849,
-      "exportedPath": "almanac/non-player-characters/flimsa-backenfor.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Flimsa Backenfor.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Fuggle the Architect.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 654,
-      "exportedPath": "almanac/non-player-characters/fuggle-the-architect.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Fuggle the Architect.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Garth Lancebit.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 541,
-      "exportedPath": "almanac/non-player-characters/garth-lancebit.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Garth Lancebit.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Gimard Hogg.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 538,
-      "exportedPath": "almanac/non-player-characters/gimard-hogg.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Gimard Hogg.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Griff.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 579,
-      "exportedPath": "almanac/non-player-characters/griff.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Griff.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Gustav Kraggli.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 760,
-      "exportedPath": "almanac/non-player-characters/gustav-kraggli.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Gustav Kraggli.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Happy Backenfor.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1037,
-      "exportedPath": "almanac/non-player-characters/happy-backenfor.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Happy Backenfor.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Hermia.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 542,
-      "exportedPath": "almanac/non-player-characters/hermia.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Hermia.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Hilda & Jasper.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 660,
-      "exportedPath": "almanac/non-player-characters/hilda-&-jasper.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Hilda & Jasper.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Hwyn.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 501,
-      "exportedPath": "almanac/non-player-characters/hwyn.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Hwyn.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Ivan Smythe.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 691,
-      "exportedPath": "almanac/non-player-characters/ivan-smythe.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Ivan Smythe.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Jackson.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 796,
-      "exportedPath": "almanac/non-player-characters/jackson.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Jackson.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Jake the Snake.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 729,
-      "exportedPath": "almanac/non-player-characters/jake-the-snake.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Jake the Snake.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Jask & Tomber.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 596,
-      "exportedPath": "almanac/non-player-characters/jask-&-tomber.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Jask & Tomber.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Jeremy Arnaud.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 900,
-      "exportedPath": "almanac/non-player-characters/jeremy-arnaud.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Jeremy Arnaud.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Jesusiton.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 501,
-      "exportedPath": "almanac/non-player-characters/jesusiton.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Jesusiton.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Judith & Bella.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 669,
-      "exportedPath": "almanac/non-player-characters/judith-&-bella.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Judith & Bella.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Kirai Root.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 757,
-      "exportedPath": "almanac/non-player-characters/kirai-root.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Kirai Root.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Kulch.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 701,
-      "exportedPath": "almanac/non-player-characters/kulch.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Kulch.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Lars Kraggli (King).md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 786,
-      "exportedPath": "almanac/non-player-characters/lars-kraggli-(king).html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Lars Kraggli (King).html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Lars Oreheart.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 599,
-      "exportedPath": "almanac/non-player-characters/lars-oreheart.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Lars Oreheart.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Larson Kraggli.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 832,
-      "exportedPath": "almanac/non-player-characters/larson-kraggli.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Larson Kraggli.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Leena.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 522,
-      "exportedPath": "almanac/non-player-characters/leena.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Leena.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Liammeck Pringle.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 538,
-      "exportedPath": "almanac/non-player-characters/liammeck-pringle.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Liammeck Pringle.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Lisa Taylor.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 600,
-      "exportedPath": "almanac/non-player-characters/lisa-taylor.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Lisa Taylor.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Lorna.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 645,
-      "exportedPath": "almanac/non-player-characters/lorna.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Lorna.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Lucius Varus.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 542,
-      "exportedPath": "almanac/non-player-characters/lucius-varus.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Lucius Varus.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Luke Kilywins.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 561,
-      "exportedPath": "almanac/non-player-characters/luke-kilywins.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Luke Kilywins.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Marius Bogda.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 575,
-      "exportedPath": "almanac/non-player-characters/marius-bogda.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Marius Bogda.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Master Leviwak.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 560,
-      "exportedPath": "almanac/non-player-characters/master-leviwak.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Master Leviwak.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Merrick Taylor.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 883,
-      "exportedPath": "almanac/non-player-characters/merrick-taylor.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Merrick Taylor.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Mildew Jones.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1087,
-      "exportedPath": "almanac/non-player-characters/mildew-jones.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Mildew Jones.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Mirela.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 597,
-      "exportedPath": "almanac/non-player-characters/mirela.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Mirela.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Monika Grunch.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 700,
-      "exportedPath": "almanac/non-player-characters/monika-grunch.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Monika Grunch.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Mr Feathertongue.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 588,
-      "exportedPath": "almanac/non-player-characters/mr-feathertongue.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Mr Feathertongue.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Mungo.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 728,
-      "exportedPath": "almanac/non-player-characters/mungo.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Mungo.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Nancy Arnaud.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 594,
-      "exportedPath": "almanac/non-player-characters/nancy-arnaud.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Nancy Arnaud.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Nicholas Diminitrov.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 537,
-      "exportedPath": "almanac/non-player-characters/nicholas-diminitrov.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Nicholas Diminitrov.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Nicholas Pringle.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 896,
-      "exportedPath": "almanac/non-player-characters/nicholas-pringle.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Nicholas Pringle.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Non-Player Characters.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 7327,
-      "exportedPath": "almanac/non-player-characters/non-player-characters.html",
+      "exportedPath": "Almanac/Non-Player Characters/Non-Player Characters.html",
       "dependencies": []
     },
     "Almanac/Non-Player Characters/Phillipa Finn.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 664,
-      "exportedPath": "almanac/non-player-characters/phillipa-finn.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Phillipa Finn.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Pyotr Dobromaslov.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 871,
-      "exportedPath": "almanac/non-player-characters/pyotr-dobromaslov.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Pyotr Dobromaslov.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Ratch Spunk.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 711,
-      "exportedPath": "almanac/non-player-characters/ratch-spunk.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Ratch Spunk.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Reginal D Wight.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 609,
-      "exportedPath": "almanac/non-player-characters/reginal-d-wight.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Reginal D Wight.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Roscoe & Jiory.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 588,
-      "exportedPath": "almanac/non-player-characters/roscoe-&-jiory.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Roscoe & Jiory.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Samuel  Green.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 721,
-      "exportedPath": "almanac/non-player-characters/samuel-green.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Samuel  Green.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Sha Callistophylla.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 594,
-      "exportedPath": "almanac/non-player-characters/sha-callistophylla.html",
-      "dependencies": [
-        "lib/media/sha_callistophylla.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Sha Callistophylla.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Sklanda.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 654,
-      "exportedPath": "almanac/non-player-characters/sklanda.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Sklanda.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Steve Buggins.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 568,
-      "exportedPath": "almanac/non-player-characters/steve-buggins.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Steve Buggins.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Sulgado.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 754,
-      "exportedPath": "almanac/non-player-characters/sulgado.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Sulgado.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Tabatha Herdsman.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 707,
-      "exportedPath": "almanac/non-player-characters/tabatha-herdsman.html",
-      "dependencies": [
-        "lib/media/tabatha_herdsman.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Tabatha Herdsman.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Teegu.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 805,
-      "exportedPath": "almanac/non-player-characters/teegu.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Teegu.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Terrence.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 744,
-      "exportedPath": "almanac/non-player-characters/terrence.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Terrence.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Thoro.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 538,
-      "exportedPath": "almanac/non-player-characters/thoro.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Thoro.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Thumper.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 611,
-      "exportedPath": "almanac/non-player-characters/thumper.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Thumper.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Tinka Oreheart.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1005,
-      "exportedPath": "almanac/non-player-characters/tinka-oreheart.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Tinka Oreheart.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Tobias Gallimaufrey.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 987,
-      "exportedPath": "almanac/non-player-characters/tobias-gallimaufrey.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Tobias Gallimaufrey.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Tomabob.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 775,
-      "exportedPath": "almanac/non-player-characters/tomabob.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Tomabob.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Toothless Bess.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 640,
-      "exportedPath": "almanac/non-player-characters/toothless-bess.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Toothless Bess.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Tugger Orson.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 904,
-      "exportedPath": "almanac/non-player-characters/tugger-orson.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Tugger Orson.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Uncle Pete.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 661,
-      "exportedPath": "almanac/non-player-characters/uncle-pete.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Uncle Pete.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Vanyar Leafkin.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1086,
-      "exportedPath": "almanac/non-player-characters/vanyar-leafkin.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Vanyar Leafkin.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Venth Rapkins.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 538,
-      "exportedPath": "almanac/non-player-characters/venth-rapkins.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Venth Rapkins.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Victor Rugglesniff.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 763,
-      "exportedPath": "almanac/non-player-characters/victor-rugglesniff.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Victor Rugglesniff.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Whitstock.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 624,
-      "exportedPath": "almanac/non-player-characters/whitstock.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Whitstock.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Wikken.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 597,
-      "exportedPath": "almanac/non-player-characters/wikken.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Wikken.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Willem.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 543,
-      "exportedPath": "almanac/non-player-characters/willem.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Willem.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/William Hatchet.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 623,
-      "exportedPath": "almanac/non-player-characters/william-hatchet.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/William Hatchet.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Winley.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 669,
-      "exportedPath": "almanac/non-player-characters/winley.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Winley.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Withred & Edwina.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 770,
-      "exportedPath": "almanac/non-player-characters/withred-&-edwina.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Withred & Edwina.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Yavanna Callistophylla.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 645,
-      "exportedPath": "almanac/non-player-characters/yavanna-callistophylla.html",
-      "dependencies": [
-        "lib/media/yavanna_callistophylla.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Yavanna Callistophylla.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Yaya Patzukin.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 607,
-      "exportedPath": "almanac/non-player-characters/yaya-patzukin.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Yaya Patzukin.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Young Garth.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 591,
-      "exportedPath": "almanac/non-player-characters/young-garth.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Young Garth.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Yuri.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 605,
-      "exportedPath": "almanac/non-player-characters/yuri.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Yuri.html",
+      "dependencies": []
     },
     "Almanac/Non-Player Characters/Zangar the Merchant.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 606,
-      "exportedPath": "almanac/non-player-characters/zangar-the-merchant.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Non-Player Characters/Zangar the Merchant.html",
+      "dependencies": []
     },
     "Almanac/Organisations/Blood Guild.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 31,
-      "exportedPath": "almanac/organisations/blood-guild.html",
+      "exportedPath": "Almanac/Organisations/Blood Guild.html",
       "dependencies": []
     },
     "Almanac/Organisations/Kraggli Rebellion.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 75,
-      "exportedPath": "almanac/organisations/kraggli-rebellion.html",
+      "exportedPath": "Almanac/Organisations/Kraggli Rebellion.html",
       "dependencies": []
     },
     "Almanac/Organisations/Merchant's Guild.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 61,
-      "exportedPath": "almanac/organisations/merchant's-guild.html",
+      "exportedPath": "Almanac/Organisations/Merchant's Guild.html",
       "dependencies": []
     },
     "Almanac/Organisations/Order of St Sonya.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 166,
-      "exportedPath": "almanac/organisations/order-of-st-sonya.html",
+      "exportedPath": "Almanac/Organisations/Order of St Sonya.html",
       "dependencies": []
     },
     "Almanac/Organisations/Oreheart Agreement.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 31,
-      "exportedPath": "almanac/organisations/oreheart-agreement.html",
+      "exportedPath": "Almanac/Organisations/Oreheart Agreement.html",
       "dependencies": []
     },
     "Almanac/Organisations/Organisations.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 3218,
-      "exportedPath": "almanac/organisations/organisations.html",
+      "exportedPath": "Almanac/Organisations/Organisations.html",
       "dependencies": []
     },
     "Almanac/Organisations/Raven's Court.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 128,
-      "exportedPath": "almanac/organisations/raven's-court.html",
+      "exportedPath": "Almanac/Organisations/Raven's Court.html",
       "dependencies": []
     },
     "Almanac/Organisations/Samnik Senate.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 70,
-      "exportedPath": "almanac/organisations/samnik-senate.html",
+      "exportedPath": "Almanac/Organisations/Samnik Senate.html",
       "dependencies": []
     },
     "Almanac/Organisations/The XO.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 63,
-      "exportedPath": "almanac/organisations/the-xo.html",
+      "exportedPath": "Almanac/Organisations/The XO.html",
       "dependencies": []
     },
     "Almanac/Player Characters/Bernald.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1079,
-      "exportedPath": "almanac/player-characters/bernald.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Bernald.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/Eggs.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 6308,
-      "exportedPath": "almanac/player-characters/eggs.html",
-      "dependencies": [
-        "lib/media/eggs.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Eggs.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/Eiken.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 542,
-      "exportedPath": "almanac/player-characters/eiken.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Eiken.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/Fiona.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 590,
-      "exportedPath": "almanac/player-characters/fiona.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Fiona.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/Gordon.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 966,
-      "exportedPath": "almanac/player-characters/gordon.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Gordon.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/J'org.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 568,
-      "exportedPath": "almanac/player-characters/j'org.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/J'org.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/Josiah.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1242,
-      "exportedPath": "almanac/player-characters/josiah.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Josiah.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/Player Characters.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 8346,
-      "exportedPath": "almanac/player-characters/player-characters.html",
+      "exportedPath": "Almanac/Player Characters/Player Characters.html",
       "dependencies": []
     },
     "Almanac/Player Characters/Serafina.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1193,
-      "exportedPath": "almanac/player-characters/serafina.html",
-      "dependencies": [
-        "lib/media/serafina.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Serafina.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/Stigandr.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1841,
-      "exportedPath": "almanac/player-characters/stigandr.html",
-      "dependencies": [
-        "lib/media/stigandr.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Stigandr.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/Willy.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 2968,
-      "exportedPath": "almanac/player-characters/willy.html",
-      "dependencies": [
-        "lib/media/willy.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Willy.html",
+      "dependencies": []
     },
     "Almanac/Player Characters/Wyn.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 527,
-      "exportedPath": "almanac/player-characters/wyn.html",
-      "dependencies": [
-        "lib/media/placeholder_portrait.png"
-      ]
+      "exportedPath": "Almanac/Player Characters/Wyn.html",
+      "dependencies": []
     },
     "Almanac/Races/Dark Elf.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/dark-elf.html",
+      "exportedPath": "Almanac/Races/Dark Elf.html",
       "dependencies": []
     },
     "Almanac/Races/Dwarf.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/dwarf.html",
+      "exportedPath": "Almanac/Races/Dwarf.html",
       "dependencies": []
     },
     "Almanac/Races/Gnome.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/gnome.html",
+      "exportedPath": "Almanac/Races/Gnome.html",
       "dependencies": []
     },
     "Almanac/Races/Goblin.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/goblin.html",
+      "exportedPath": "Almanac/Races/Goblin.html",
       "dependencies": []
     },
     "Almanac/Races/Half-Dwarf.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/half-dwarf.html",
+      "exportedPath": "Almanac/Races/Half-Dwarf.html",
       "dependencies": []
     },
     "Almanac/Races/Half-Elf.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/half-elf.html",
+      "exportedPath": "Almanac/Races/Half-Elf.html",
       "dependencies": []
     },
     "Almanac/Races/Half-Orc.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/half-orc.html",
+      "exportedPath": "Almanac/Races/Half-Orc.html",
       "dependencies": []
     },
     "Almanac/Races/Halfling.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/halfling.html",
+      "exportedPath": "Almanac/Races/Halfling.html",
       "dependencies": []
     },
     "Almanac/Races/High Elf.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/high-elf.html",
+      "exportedPath": "Almanac/Races/High Elf.html",
       "dependencies": []
     },
     "Almanac/Races/Human.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 122,
-      "exportedPath": "almanac/races/human.html",
+      "exportedPath": "Almanac/Races/Human.html",
       "dependencies": []
     },
     "Almanac/Races/Orc.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/orc.html",
+      "exportedPath": "Almanac/Races/Orc.html",
       "dependencies": []
     },
     "Almanac/Races/Pescamen.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/pescamen.html",
+      "exportedPath": "Almanac/Races/Pescamen.html",
       "dependencies": []
     },
     "Almanac/Races/Races.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1480,
-      "exportedPath": "almanac/races/races.html",
+      "exportedPath": "Almanac/Races/Races.html",
       "dependencies": []
     },
     "Almanac/Races/Wood Elf.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 5,
-      "exportedPath": "almanac/races/wood-elf.html",
+      "exportedPath": "Almanac/Races/Wood Elf.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Artifacts.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 25,
-      "exportedPath": "almanac/things/artifacts/artifacts.html",
+      "exportedPath": "Almanac/Things/Artifacts/Artifacts.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Bag of Holding.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 61,
-      "exportedPath": "almanac/things/artifacts/bag-of-holding.html",
+      "exportedPath": "Almanac/Things/Artifacts/Bag of Holding.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Crown of Lindon.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 593,
-      "exportedPath": "almanac/things/artifacts/crown-of-lindon.html",
+      "exportedPath": "Almanac/Things/Artifacts/Crown of Lindon.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Final Songs by Reginald D Wight.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 285,
-      "exportedPath": "almanac/things/artifacts/final-songs-by-reginald-d-wight.html",
+      "exportedPath": "Almanac/Things/Artifacts/Final Songs by Reginald D Wight.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Flask of Breath.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 59,
-      "exportedPath": "almanac/things/artifacts/flask-of-breath.html",
+      "exportedPath": "Almanac/Things/Artifacts/Flask of Breath.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Geema's Aegis.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 7,
-      "exportedPath": "almanac/things/artifacts/geema's-aegis.html",
+      "exportedPath": "Almanac/Things/Artifacts/Geema's Aegis.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Keto Tiara.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 97,
-      "exportedPath": "almanac/things/artifacts/keto-tiara.html",
+      "exportedPath": "Almanac/Things/Artifacts/Keto Tiara.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Ladel of Brulee.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 64,
-      "exportedPath": "almanac/things/artifacts/ladel-of-brulee.html",
+      "exportedPath": "Almanac/Things/Artifacts/Ladel of Brulee.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Lodestone Shield.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 63,
-      "exportedPath": "almanac/things/artifacts/lodestone-shield.html",
+      "exportedPath": "Almanac/Things/Artifacts/Lodestone Shield.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Tamunns Armour.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 61,
-      "exportedPath": "almanac/things/artifacts/tamunns-armour.html",
+      "exportedPath": "Almanac/Things/Artifacts/Tamunns Armour.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Taskmaster Hourglass.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 7,
-      "exportedPath": "almanac/things/artifacts/taskmaster-hourglass.html",
+      "exportedPath": "Almanac/Things/Artifacts/Taskmaster Hourglass.html",
       "dependencies": []
     },
     "Almanac/Things/Artifacts/Trueshot Javelin.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 35,
-      "exportedPath": "almanac/things/artifacts/trueshot-javelin.html",
+      "exportedPath": "Almanac/Things/Artifacts/Trueshot Javelin.html",
       "dependencies": []
     },
     "Almanac/Things/Consumables/Consumables.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 170,
-      "exportedPath": "almanac/things/consumables/consumables.html",
+      "exportedPath": "Almanac/Things/Consumables/Consumables.html",
       "dependencies": []
     },
     "Almanac/Things/Flora and Fauna/Flora and Fauna.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 1077,
-      "exportedPath": "almanac/things/flora-and-fauna/flora-and-fauna.html",
+      "exportedPath": "Almanac/Things/Flora and Fauna/Flora and Fauna.html",
       "dependencies": []
     },
     "Almanac/Things/Flora and Fauna/Vovana Flower.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 184,
-      "exportedPath": "almanac/things/flora-and-fauna/vovana-flower.html",
+      "exportedPath": "Almanac/Things/Flora and Fauna/Vovana Flower.html",
       "dependencies": []
     },
     "Almanac/Things/Vehicles/The Tickly Mister.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 32,
-      "exportedPath": "almanac/things/vehicles/the-tickly-mister.html",
+      "exportedPath": "Almanac/Things/Vehicles/The Tickly Mister.html",
       "dependencies": []
     },
     "Almanac/Things/Things.md": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 2779,
-      "exportedPath": "almanac/things/things.html",
-      "dependencies": []
-    },
-    "lib/media/forbidden-forest.pdf": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 787096,
-      "exportedPath": "lib/media/forbidden-forest.pdf",
-      "dependencies": []
-    },
-    "lib/media/forbidden-forest-context.pdf": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 146944,
-      "exportedPath": "lib/media/forbidden-forest-context.pdf",
-      "dependencies": []
-    },
-    "lib/media/placeholder_portrait.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 129226,
-      "exportedPath": "lib/media/placeholder_portrait.png",
-      "dependencies": []
-    },
-    "lib/media/aegnor_leafkin.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 159366,
-      "exportedPath": "lib/media/aegnor_leafkin.png",
-      "dependencies": []
-    },
-    "lib/media/boots_floof.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 108893,
-      "exportedPath": "lib/media/boots_floof.png",
-      "dependencies": []
-    },
-    "lib/media/erland_callistophylla.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 164008,
-      "exportedPath": "lib/media/erland_callistophylla.png",
-      "dependencies": []
-    },
-    "lib/media/sha_callistophylla.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 261103,
-      "exportedPath": "lib/media/sha_callistophylla.png",
-      "dependencies": []
-    },
-    "lib/media/tabatha_herdsman.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 108216,
-      "exportedPath": "lib/media/tabatha_herdsman.png",
-      "dependencies": []
-    },
-    "lib/media/yavanna_callistophylla.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 174629,
-      "exportedPath": "lib/media/yavanna_callistophylla.png",
-      "dependencies": []
-    },
-    "lib/media/eggs.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 178177,
-      "exportedPath": "lib/media/eggs.png",
-      "dependencies": []
-    },
-    "lib/media/serafina.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 386737,
-      "exportedPath": "lib/media/serafina.png",
-      "dependencies": []
-    },
-    "lib/media/stigandr.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 386737,
-      "exportedPath": "lib/media/stigandr.png",
-      "dependencies": []
-    },
-    "lib/media/willy.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 252964,
-      "exportedPath": "lib/media/willy.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "exportedPath": "Almanac/Things/Things.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1711294081064,
+      "modifiedTime": 1711295125790,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 105761,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 18442,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 157722,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/other-plugins.css": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 191383,
-      "exportedPath": "lib/styles/other-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/theme.css": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 778796,
-      "exportedPath": "lib/styles/theme.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 236,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 4000,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/snippets.css": {
-      "modifiedTime": 1711294081064,
-      "sourceSize": 3004600,
-      "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     }
   }
